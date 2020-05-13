@@ -1,4 +1,10 @@
-# COVID-19 Symptom Analysis from Reddit
-For this analysis, I used the text from posts on the <i>covid19positive</i> subreddit in order to find common symptoms that appear most frequently in those that have tested positive. This subreddit uses "Flairs" assigned by the user, that identify whether they have been tested and found to be positive for COVID-19, which helps us limit the posts we export from the Reddit page to only those that have a confirmed positive case.
+# Data Science Portfolio
+This is a repository of data science projects that I have worked on for my own personal curiosity and for building my analytics and coding skillset.
 
-This project uses the Reddit API, and will require client credentials to be added in order to extract the data needed to run the analysis.
+I work primarily in Python, and projects will be posted in Jupyter Notebook format.
+
+## Content <br>
+
+### Natural Language Processing
+
+* <a href="https://github.com/tcondict/data-science-portfolio/blob/master/COVID%20Symptoms%20Extractor.ipynb"> COVID-19 Symptoms Analysis from covid19positive Subreddit </a>
