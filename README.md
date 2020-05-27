@@ -7,4 +7,4 @@ I work primarily in Python, and projects will be posted in Jupyter Notebook form
 
 ### Natural Language Processing
 
-* <a href="https://github.com/tcondict/data-science-portfolio/blob/master/COVID%20Symptoms%20Extractor.ipynb"> COVID-19 Symptoms Analysis from covid19positive Subreddit </a>
+* <a href="https://github.com/tcondict/data-science-portfolio/blob/master/COVID%20Symptoms%20on%20Reddit%20Analysis.ipynb"> COVID-19 Symptoms Analysis from covid19positive Subreddit </a>
